@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Health_is_Wealth</string>
+    <string name="button3">OK</string>
+    <string name="button4">YES</string>
+    <string name="textView2">Do you wanna know how fit are you</string>
+    <string name="editText">Enter your name</string>
+    <string name="radioButton2">M</string>
+    <string name="radioButton">F</string>
+</resources>
